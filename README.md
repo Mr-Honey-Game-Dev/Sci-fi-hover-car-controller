@@ -10,5 +10,8 @@ This project is a perfect starting point for anyone looking to create a sci-fi o
 ### Note
 This is an old project on mine created back in september 2021 while i was myself learning new things so there might be scope to optimize code's performance  
 ## Results
-![thumnail](https://user-images.githubusercontent.com/61724400/212525661-9b76c8af-9c23-4c04-9495-da7b672ce083.png)
-![Screenshot (77)](https://user-images.githubusercontent.com/61724400/212525665-7d46edad-7077-4c68-a1e7-0c6905608fdc.png)
+
+![temp5](https://user-images.githubusercontent.com/61724400/212526310-fa20da7a-2e06-4674-821c-156f486b7979.gif)
+![temp4](https://user-images.githubusercontent.com/61724400/212526314-86dcb07c-732b-4cf5-b7ac-e2ae8a3786fb.gif)
+![temp3](https://user-images.githubusercontent.com/61724400/212526315-29713df7-e080-4336-8fa1-91b4cd0959f0.gif)
+
